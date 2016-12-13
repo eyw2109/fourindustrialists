@@ -1,0 +1,13 @@
+body{
+	background-color:#000000;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+}
+
+p.ford-parragraph{
+	font-size: 3em;
+}
+
+p.other{
+	font-size: 1em;
+}
