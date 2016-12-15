@@ -1,4 +1,3 @@
-/* Body */
 body{
 	background-color:#000000;
 	color: white;
@@ -7,35 +6,44 @@ body{
 
 /* Navbar */
 .navbar-default {
-	background-color: #000;
+	background-color: #000000;
 	border-style: none;
 }
 .navbar-default .container-fluid{
-	border-bottom: 1px solid #000;
-}
-.navbar-default .navbar-nav > li > a:hover {
-	color: #4C4C4C;
+	border-bottom: 1px solid #ffffff;
 }
 .navbar-default .navbar-brand {
-	color: #000000;
+	color: #ffffff;
 	font-family: "futura-pt", helvetica, sans-serif;
-	font-size: 3em;
+	font-size: 1.25em;
 	font-style: normal;
 	font-weight: 400;
 	text-decoration: none;
 	letter-spacing: 0.5px
 }
 .navbar-default .navbar-brand:hover {
-	color: #000000;
+	color: #777777;
+}
+.navbar-default .navbar-nav > li > a {
+	color: #ffffff;
+	font-family: "futura-pt", helvetica, sans-serif;
+	font-size: 1.15em;
+	font-style: normal;
+	font-weight: 200;
+	text-decoration: none;
+}
+.navbar-default .navbar-nav > li > a:hover {
+	text-decoration: underline;
 }
 .navbar-default .navbar-nav > .active > a {
-	color: #777;
+	color: #777777;
 	font-weight: 400;
-	background-color: #000;
+	background-color: #000000;
 }
 .navbar-default .navbar-nav > .active > a:hover {
-	color: #777;
-	background-color: #000;
+	color: #ffffff;
+	background-color: #777777;
+	text-decoration: underline;
 }
 .navbar-default .navbar-toggle {
 	border: none;
@@ -44,8 +52,23 @@ body{
     background-color: #4C4C4C;
 }
 
+/* Summary */
+.summary p{
+	color: #000000;
+	font-family: "futura-pt", helvetica, sans-serif;
+	font-size: 1.35em;
+	font-weight: 300;
+	max-width: 900px; 
+}
+.summary p > a{
+	color: #000000;
+	text-decoration: underline;
+}
+.summary {
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
 
-/* Individual */
 p.ford-parragraph{
 	font-size: 3em;
 }
@@ -54,11 +77,12 @@ p.other{
 	font-size: 1em;
 }
 
-/* Rockefeller */
-h2.rockefeller-header {
-	text-align: center;
+.navbar-default {
+	background-color: #000;
+	color: white:
 }
 
-p.rockefeller-paragraph {
-	text-align: center;
+.navbar-collapse {
+	background-color: #ddd;
+	color: ;
 }
