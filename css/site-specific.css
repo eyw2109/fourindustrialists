@@ -104,17 +104,14 @@ iframe {
 /* ---- HOME PAGE ---- */
 
 p.project-description{
-	margin: 0px 100px 0px 100px;
+	margin: 0px 300px 0px 300px;
 }
 img.vimeo-image{
 	text-align: center;
 	display: block;
 	margin: auto;
 }
-p.names{
-	text-align: right;
-	margin: ;
-}
+
 /* ---- FORD BUTTON ---- */
 
 /* -- ROCKEFELLER BUTTON ---- */
@@ -125,8 +122,8 @@ p.names{
 
 /* ---- SOURCES ---- */
 h2.header-sources{
-	margin: 0px 150px 0px 90px;
+	margin: 0px 300px 0px 90px;
 }
 ul.sources{
-	margin: 0px 150px 0px 90px;
+	margin: 0px 280px 0px 90px;
 }
