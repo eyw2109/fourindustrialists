@@ -21,7 +21,7 @@ body{
 .navbar-default .navbar-nav > li > a {
 	color: #ffffff;
 	font-family: "futura-pt", helvetica, sans-serif;
-	font-size: 1.35em;
+	font-size: 1em;
 	font-style: normal;
 	font-weight: 200;
 	text-decoration: none;
@@ -55,18 +55,30 @@ h1 {
 	text-align: center;
 	color: #ffffff;
 	font-family: "futura-pt", helvetica, sans-serif;
-	font-size: 2em;
+	font-size: 1.35em;
 	font-style: normal;
-	font-weight: 200;
+	font-weight: 150;
 	text-decoration: none;
 }
 
 h2 {
-	text-align: center;
+	text-align: left;
+	color: #ffffff;
+	font-family: "futura-pt", helvetica, sans-serif;
+	font-size: 1em;
+	font-style: normal;
+	font-weight: 150;
+	text-decoration: none;
 }
 
 h3 {
-	text-align: center;
+	text-align: left;
+	color: #ffffff;
+	font-family: "futura-pt", helvetica, sans-serif;
+	font-size: 1em;
+	font-style: normal;
+	font-weight: 150;
+	text-decoration: none;
 }
 h4 {
 	text-align: center;
