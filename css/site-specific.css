@@ -118,6 +118,11 @@ p.names{
 
 /* ---- FORD BUTTON ---- */
 
+img.ford-legend{
+	text-align: center;
+	display: block;
+	margin: auto;
+}
 /* -- ROCKEFELLER BUTTON ---- */
 
 /* ---- CARNEGIE BUTTON ---- */
