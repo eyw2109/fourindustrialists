@@ -47,11 +47,38 @@ body{
 }
 
 
-/* Individual */
+/* -- Individual -- */
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+h4 {
+	text-align: center;
+}
+
+/* -- HOME -- */
 p.ford-parragraph{
 	font-size: 3em;
+	text-align: center;
 }
 
 p.other{
 	font-size: 1em;
+	text-align: center;
 }
+
+/* -- FORD -- */
+
+/* -- ROCKEFELLER -- */
+
+/* -- CARNEGIE -- */
+
+/* -- VANDERBILT -- */
