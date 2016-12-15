@@ -22,7 +22,7 @@ body{
 	background-color: #000000;
 }
 .navbar-default .navbar-nav > li > a:hover {
-	text-decoration: underline;
+	text-decoration: none;
 }
 .navbar-default .navbar-nav > .active > a {
 	color: #ffffff;
@@ -31,8 +31,8 @@ body{
 }
 .navbar-default .navbar-nav > .active > a:hover {
 	color: #ffffff;
-	background-color: #cccccc;
-	text-decoration: underline;
+	background-color: #000000;
+	text-decoration: none;
 }
 .navbar-default .navbar-toggle {
 	border: none;
@@ -41,20 +41,12 @@ body{
     background-color: #4C4C4C;
 }
 
+
+/* Individual */
 p.ford-parragraph{
 	font-size: 3em;
 }
 
 p.other{
 	font-size: 1em;
-}
-
-.navbar-default {
-	background-color: #000;
-	color: white:
-}
-
-.navbar-collapse {
-	background-color: #ddd;
-	color: ;
 }
