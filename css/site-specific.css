@@ -11,3 +11,19 @@ p.ford-parragraph{
 p.other{
 	font-size: 1em;
 }
+
+.navbar-defuault {
+	background-color: #000
+	border-color #000
+	color: #000;
+}
+
+.navbar-default .navbar-brand {
+	color: #fff;
+}
+
+.navbar-default .navbar-hover:hover,
+.navbar-default .navbar-brand:focus {
+	color: transparent
+	background-color: #777;
+}
