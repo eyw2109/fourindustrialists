@@ -102,6 +102,10 @@ iframe {
 }
 
 /* ---- HOME BUTTON ---- */
+
+img.vimeo-image{
+	text-align: center;
+}
 p.ford-parragraph{
 	font-size: 2em;
 	text-align: center;
@@ -118,4 +122,9 @@ p.other{
 
 /* ---- CARNEGIE BUTTON ---- */
 
-/* ---- VANDERBILT BUTTON---- */
+/* ---- VANDERBILT BUTTON ---- */
+
+/* ---- SOURCES ---- */
+ul.sources{
+	margin: 0px 1500px 0px 90px;
+}
