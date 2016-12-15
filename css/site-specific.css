@@ -9,7 +9,7 @@ body{
 .navbar-default{
 	background-color: #000000;
 	border-style: none;
-	text-align: center;
+	text-align:center;
 }
 .navbar-default .container-fluid{
 	border-bottom: 1px solid #ffffff;
@@ -26,18 +26,21 @@ body{
 	text-align: center;
 }
 .navbar-default .navbar-nav > li > a:hover {
-	color: #f2f2f2;
+	color: #f1a2a2;
 	text-decoration: none;
+	text-align: center;
 }
 .navbar-default .navbar-nav > .active > a {
 	color: #ffffff;
 	font-weight: 400;
 	background-color: #000000;
+	text-align: center;
 }
 .navbar-default .navbar-nav > .active > a:hover {
 	color: #ffffff;
 	background-color: #000000;
 	text-decoration: none;
+	text-align: center;
 }
 .navbar-default .navbar-toggle {
 	border: none;
