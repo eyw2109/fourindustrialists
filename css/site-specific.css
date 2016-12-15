@@ -12,36 +12,36 @@ p.other{
 	font-size: 1em;
 }
 
-.navbar-defuault {
+.navbar .navbar-defuault {
 	background-color: #000
 	border-color #000
 	color: #000;
 }
 
-.navbar-default .navbar-brand {
+.navbar .navbar-default .navbar-brand {
 	color: #fff;
 }
 
-.navbar-default .navbar-hover:hover,
-.navbar-default .navbar-brand:focus {
+.navbar .navbar-default .navbar-hover:hover,
+.navbar .navbar-default .navbar-brand:focus {
 	color: transparent:;
 	background-color: #777;
 }
 
-.navbar-default .navbar-nav > li > a {
+.navbar .navbar-default .navbar-nav > li > a {
 	color: #fff;
 	background color: #000;
 }
 
-.navbar-default .navbar-nav > .active > a,
-.navbar-default .navbar-nav > .active > a:hover,
-.navbar-default .navbar-nav > .active > a:focus {
+.navbar .navbar-default .navbar-nav > .active > a,
+.navbar .navbar-default .navbar-nav > .active > a:hover,
+.navbar .navbar-default .navbar-nav > .active > a:focus {
 	color: #e6e6e6;
 	background color: #777;
 }
 
-.navbar-default .navbar-nav > li > a:hover,
-.navbar-defatul .navbar-nav > li > a:focus {
+.navbar .navbar-default .navbar-nav > li > a:hover,
+.navbar .navbar-defatul .navbar-nav > li > a:focus {
 	color: transparent;
 	background-color: transparent;
 }
