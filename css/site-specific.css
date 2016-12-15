@@ -9,10 +9,11 @@ body{
 .navbar-default{
 	background-color: #000000;
 	border-style: none;
-	text-align:center;
+	text-align: center;
 }
 .navbar-default .container-fluid{
 	border-bottom: 1px solid #ffffff;
+	text-align: center;
 }
 .navbar-default .navbar-nav > li > a {
 	color: #ffffff;
@@ -25,7 +26,7 @@ body{
 	text-align: center;
 }
 .navbar-default .navbar-nav > li > a:hover {
-	color: #000;
+	color: #f2f2f2;
 	text-decoration: none;
 }
 .navbar-default .navbar-nav > .active > a {
