@@ -7,16 +7,19 @@ body{
 
 /* Navbar */
 .navbar-default {
-	background-color: #F2F2F2;
+	background-color: #000;
 	border-style: none;
 }
 .navbar-default .container-fluid{
-	border-bottom: 1px solid #BFBFBF;
+	border-bottom: 1px solid #000;
+}
+.navbar-default .navbar-nav > li > a:hover {
+	color: #4C4C4C;
 }
 .navbar-default .navbar-brand {
 	color: #000000;
 	font-family: "futura-pt", helvetica, sans-serif;
-	font-size: 1.25em;
+	font-size: 3em;
 	font-style: normal;
 	font-weight: 400;
 	text-decoration: none;
@@ -25,26 +28,14 @@ body{
 .navbar-default .navbar-brand:hover {
 	color: #000000;
 }
-.navbar-default .navbar-nav > li > a {
-	color: #4C4C4C;
-	font-family: "futura-pt", helvetica, sans-serif;
-	font-size: 1.15em;
-	font-style: normal;
-	font-weight: 200;
-	text-decoration: none;
-}
-.navbar-default .navbar-nav > li > a:hover {
-	text-decoration: underline;
-}
 .navbar-default .navbar-nav > .active > a {
-	color: #000000;
+	color: #777;
 	font-weight: 400;
-	background-color: #F2F2F2;
+	background-color: #000;
 }
 .navbar-default .navbar-nav > .active > a:hover {
-	color: #000000;
-	background-color: #F2F2F2;
-	text-decoration: underline;
+	color: #777;
+	background-color: #000;
 }
 .navbar-default .navbar-toggle {
 	border: none;
@@ -54,10 +45,20 @@ body{
 }
 
 
+/* Individual */
 p.ford-parragraph{
 	font-size: 3em;
 }
 
 p.other{
 	font-size: 1em;
+}
+
+/* Rockefeller */
+h2.rockefeller-header {
+	text-align: center;
+}
+
+p.rockefeller-paragraph {
+	text-align: center;
 }
