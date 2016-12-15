@@ -71,7 +71,8 @@ p {
 
 /* ---- IFRAMES ---- */
 iframe {
-	text-align: middle;
+	display: block;
+	margin: auto;
 }
 
 /* ---- HOME BUTTON ---- */
