@@ -112,6 +112,10 @@ img.vimeo-image{
 	margin: auto;
 }
 
+p.names{
+	text-align: center;
+}
+
 /* ---- FORD BUTTON ---- */
 
 /* -- ROCKEFELLER BUTTON ---- */
@@ -122,8 +126,8 @@ img.vimeo-image{
 
 /* ---- SOURCES ---- */
 h2.header-sources{
-	margin: 0px 300px 0px 90px;
+	margin: 0px 300px 0px 300px;
 }
 ul.sources{
-	margin: 0px 280px 0px 90px;
+	margin: 0px 280px 0px 280px;
 }
