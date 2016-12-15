@@ -21,7 +21,7 @@ body{
 .navbar-default .navbar-nav > li > a {
 	color: #ffffff;
 	font-family: "futura-pt", helvetica, sans-serif;
-	font-size: 1em;
+	font-size: 1.35em;
 	font-style: normal;
 	font-weight: 200;
 	text-decoration: none;
@@ -53,6 +53,12 @@ body{
 /* -- headers -- */
 h1 {
 	text-align: center;
+	color: #ffffff;
+	font-family: "futura-pt", helvetica, sans-serif;
+	font-size: 2em;
+	font-style: normal;
+	font-weight: 200;
+	text-decoration: none;
 }
 
 h2 {
@@ -69,6 +75,12 @@ h4 {
 /* -- paragraphs --*/
 p {
 	text-align: center;
+	color: #ffffff;
+	font-family: "futura-pt", helvetica, sans-serif;
+	font-size: 1em;
+	font-style: normal;
+	font-weight: 200;
+	text-decoration: none;
 }
 
 /* ---- IFRAMES ---- */
