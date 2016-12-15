@@ -12,18 +12,6 @@ body{
 .navbar-default .container-fluid{
 	border-bottom: 1px solid #ffffff;
 }
-.navbar-default .navbar-brand {
-	color: #ffffff;
-	font-family: "futura-pt", helvetica, sans-serif;
-	font-size: 1.25em;
-	font-style: normal;
-	font-weight: 400;
-	text-decoration: none;
-	letter-spacing: 0.5px
-}
-.navbar-default .navbar-brand:hover {
-	color: #777777;
-}
 .navbar-default .navbar-nav > li > a {
 	color: #ffffff;
 	font-family: "futura-pt", helvetica, sans-serif;
@@ -50,23 +38,6 @@ body{
 }
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #4C4C4C;
-}
-
-/* Summary */
-.summary p{
-	color: #000000;
-	font-family: "futura-pt", helvetica, sans-serif;
-	font-size: 1.35em;
-	font-weight: 300;
-	max-width: 900px; 
-}
-.summary p > a{
-	color: #000000;
-	text-decoration: underline;
-}
-.summary {
-	padding-top: 20px;
-	padding-bottom: 40px;
 }
 
 p.ford-parragraph{
