@@ -126,7 +126,8 @@ img.ford-legend{
 
 img.ford-legend-map{
 	position: absolute;
-	margin: 230px 1140px 270px 510px;
+	top: 230px;
+	left: 1140px;
 	z-index: 1;
 }
 /* -- ROCKEFELLER BUTTON ---- */
