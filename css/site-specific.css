@@ -24,6 +24,24 @@ p.other{
 
 .navbar-default .navbar-hover:hover,
 .navbar-default .navbar-brand:focus {
-	color: transparent
+	color: transparent:;
 	background-color: #777;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: #fff;
+	background color: #000;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+	color: #e6e6e6;
+	background color: #777;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-defatul .navbar-nav > li > a:focus {
+	color: transparent;
+	background-color: transparent;
 }
