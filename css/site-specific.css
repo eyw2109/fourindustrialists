@@ -10,11 +10,13 @@ body{
 	background-color: #000000;
 	border-style: none;
 	float: none;
-	display: inline-block;
+	display: block;
 	text-align:center;
+	margin: auto;
 }
 .navbar-default .container-fluid{
 	border-bottom: 1px solid #ffffff;
+	display: inline-block;
 }
 .navbar-default .navbar-nav > li > a {
 	color: #ffffff;
