@@ -89,7 +89,7 @@ p {
 	text-align: center;
 	color: #ffffff;
 	font-family: "futura-pt", helvetica, sans-serif;
-	font-size: 1em;
+	font-size: .75em;
 	font-style: normal;
 	font-weight: 200;
 	text-decoration: none;
@@ -101,21 +101,20 @@ iframe {
 	margin: auto;
 }
 
-/* ---- HOME BUTTON ---- */
+/* ---- HOME PAGE ---- */
 
+p.project-description{
+	margin: 0px 100px 0px 100px;
+}
 img.vimeo-image{
 	text-align: center;
+	display: block;
+	margin: auto;
 }
-p.ford-parragraph{
-	font-size: 2em;
-	text-align: center;
+p.names{
+	text-align: right;
+	margin: ;
 }
-
-p.other{
-	font-size: 1em;
-	text-align: center;
-}
-
 /* ---- FORD BUTTON ---- */
 
 /* -- ROCKEFELLER BUTTON ---- */
@@ -125,6 +124,9 @@ p.other{
 /* ---- VANDERBILT BUTTON ---- */
 
 /* ---- SOURCES ---- */
+h2.header-sources{
+	margin: 0px 150px 0px 90px;
+}
 ul.sources{
-	margin: 0px 1500px 0px 90px;
+	margin: 0px 150px 0px 90px;
 }
