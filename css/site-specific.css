@@ -123,6 +123,11 @@ img.ford-legend{
 	display: block;
 	margin: auto;
 }
+
+img.ford-legend-map{
+	margin: 230px 1140px 270px 510px;
+	z-index: 1;
+}
 /* -- ROCKEFELLER BUTTON ---- */
 
 /* ---- CARNEGIE BUTTON ---- */
@@ -135,4 +140,7 @@ h2.header-sources{
 }
 ul.sources{
 	margin: 0px 280px 0px 280px;
+}
+a:visited {
+	color: #660000;
 }
