@@ -12,11 +12,12 @@ p.other{
 	font-size: 1em;
 }
 
-.navbar-defuault .navbar-header {
+.navbar-default .navbar-collapse {
 	color: #fff;
 	background-color: #000;
 }
 
-.navbar-default .navbar-nav{
+.navbar-default .navbar-collapse {
 	color: #fff;
+	background-color: #000;
 }
