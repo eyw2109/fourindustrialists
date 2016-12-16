@@ -116,19 +116,34 @@ p.names{
 	text-align: center;
 }
 
-/* ---- FORD BUTTON ---- */
+/* ---- VANDERBILT BUTTON ---- */
+img.vanderbilt-legend{
+	text-align: center;
+	display: block;
+	margin: auto;
+}
 
-img.ford-legend{
+/* ---- CARNEGIE BUTTON ---- */
+img.carnegie-legend{
 	text-align: center;
 	display: block;
 	margin: auto;
 }
 
 /* -- ROCKEFELLER BUTTON ---- */
+img.rockefeller-legend{
+	text-align: center;
+	display: block;
+	margin: auto;
+}
 
-/* ---- CARNEGIE BUTTON ---- */
+/* ---- FORD BUTTON ---- */
+img.ford-legend{
+	text-align: center;
+	display: block;
+	margin: auto;
+}
 
-/* ---- VANDERBILT BUTTON ---- */
 
 /* ---- SOURCES ---- */
 h2.header-sources{
